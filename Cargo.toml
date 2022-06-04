@@ -3,7 +3,7 @@ name = "dumbshitpost"
 version = "0.1.0"
 authors = ["pollyg312 <example@post.dev>"]
 edition = "2021"
-description = ""
+description = "dasd"
 license = "MIT"
 
 [dependencies]
